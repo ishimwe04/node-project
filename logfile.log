@@ -1482,3 +1482,17 @@
 {"level":"info","message":"connected to mongodb://localhost/videos...","timestamp":"2020-03-09T11:17:39.898Z"}
 {"level":"info","message":"listening is on port 10000","timestamp":"2020-03-09T11:33:49.778Z"}
 {"level":"info","message":"connected to mongodb://localhost/videos...","timestamp":"2020-03-09T11:33:50.819Z"}
+{"level":"info","message":"listening is on port 10000","timestamp":"2020-03-09T13:40:07.128Z"}
+{"level":"info","message":"connected to mongodb://localhost/videos...","timestamp":"2020-03-09T13:40:08.165Z"}
+{"level":"info","message":"listening is on port 10000","timestamp":"2020-03-09T14:57:05.673Z"}
+{"level":"info","message":"connected to mongodb://localhost/videos...","timestamp":"2020-03-09T14:57:06.715Z"}
+{"level":"info","message":"listening is on port 10000","timestamp":"2020-03-09T15:00:05.993Z"}
+{"level":"info","message":"connected to mongodb://localhost/videos...","timestamp":"2020-03-09T15:00:07.027Z"}
+{"level":"info","message":"listening is on port 10000","timestamp":"2020-04-03T21:18:31.667Z"}
+{"level":"info","message":"connected to mongodb://localhost/videos...","timestamp":"2020-04-03T21:18:32.705Z"}
+{"message":"Cannot find module 'cors'\nRequire stack:\n- C:\\Users\\NORBERT\\Documents\\node-basics\\videos\\startup\\prod.js\n- C:\\Users\\NORBERT\\Documents\\node-basics\\videos\\index.js","stack":"Error: Cannot find module 'cors'\nRequire stack:\n- C:\\Users\\NORBERT\\Documents\\node-basics\\videos\\startup\\prod.js\n- C:\\Users\\NORBERT\\Documents\\node-basics\\videos\\index.js\n    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:793:17)\n    at Function.Module._load (internal/modules/cjs/loader.js:686:27)\n    at Module.require (internal/modules/cjs/loader.js:848:19)\n    at require (internal/modules/cjs/helpers.js:74:18)\n    at Object.<anonymous> (C:\\Users\\NORBERT\\Documents\\node-basics\\videos\\startup\\prod.js:8:14)\n    at Module._compile (internal/modules/cjs/loader.js:955:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)\n    at Module.load (internal/modules/cjs/loader.js:811:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:723:14)\n    at Module.require (internal/modules/cjs/loader.js:848:19)\n    at require (internal/modules/cjs/helpers.js:74:18)\n    at Object.<anonymous> (C:\\Users\\NORBERT\\Documents\\node-basics\\videos\\index.js:10:1)\n    at Module._compile (internal/modules/cjs/loader.js:955:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)\n    at Module.load (internal/modules/cjs/loader.js:811:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:723:14)","code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\NORBERT\\Documents\\node-basics\\videos\\startup\\prod.js","C:\\Users\\NORBERT\\Documents\\node-basics\\videos\\index.js"],"level":"error","timestamp":"2020-04-03T21:35:26.144Z"}
+{"level":"info","message":"connected to mongodb://localhost/videos...","timestamp":"2020-04-03T21:35:27.187Z"}
+{"level":"info","message":"listening is on port 10000","timestamp":"2020-04-03T21:39:48.208Z"}
+{"level":"info","message":"connected to mongodb://localhost/videos...","timestamp":"2020-04-03T21:39:49.242Z"}
+{"level":"info","message":"listening is on port 10000","timestamp":"2020-05-01T14:26:44.092Z"}
+{"level":"info","message":"connected to mongodb://localhost/videos...","timestamp":"2020-05-01T14:26:46.024Z"}
